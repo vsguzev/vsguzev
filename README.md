@@ -12,10 +12,7 @@
 🔧 Skills & Tools:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![VTK](https://img.shields.io/badge/VTK-%2334495E?style=for-the-badge&logo=vtk)
-![Git](https://img.shields.io/badge/git-%23F05031.svg?style=for-the-badge&logo=git)
 
 ---
 
